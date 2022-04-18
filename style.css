@@ -1,0 +1,31 @@
+*{
+	margin:0; 
+	padding:0;
+}
+body{
+	background-image: linear-gradient(to right top, #ff1c61, #fb007e, #eb00a0, #c900c5, #8c12eb); 
+}  
+h1{
+	text-align: center; 
+	padding-top:5rem;
+	color: #fff;
+}
+.countdown{
+	height:100vh; /*full heigth of viewport covered*/ 
+	display:flex; 
+	justify-content: center; 
+	align-items: center;
+} 
+p{
+	margin-top:2rem;
+	 background-color: black;
+	 font-size:2rem;
+  color: #fff;
+  text-align: center;
+  text-shadow: 4px 4px 5px red; 
+  padding: 2rem; 
+  border-radius:3%; 
+  box-shadow: 0px 0px 20px 10px #0ff;
+
+	 
+} 
